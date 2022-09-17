@@ -1,4 +1,5 @@
 // JSX: JavaScript + XML (HTML)
+import '.styles.css'
 
 interface ButtonProps {
   title: string;
